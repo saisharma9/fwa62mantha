@@ -10,12 +10,21 @@
     "debug": "^4.3.2",
     "express": "^4.17.1",
     "http-errors": "^1.8.0",
+    "latest": "^0.2.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
+  "description": "Getting familiar with Nodejs",
   "main": "app.js",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisharma9/fwa62mantha.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/saisharma9/fwa62mantha/issues"
+  },
+  "homepage": "https://github.com/saisharma9/fwa62mantha#readme"
 }
